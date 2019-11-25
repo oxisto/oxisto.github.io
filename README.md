@@ -1,2 +1,3 @@
 # oxisto.github.io
-Oxisto
+
+Just a small website about my open source projects.
